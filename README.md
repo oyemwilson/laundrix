@@ -1,1 +1,1 @@
-# laundrix-website
+# laundrix
